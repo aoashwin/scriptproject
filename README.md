@@ -168,9 +168,9 @@ result_button.addEventListener('click', function(e){
 
 ## OUTPUT:
 
-![output](.static/img/areaoftriangle.png)
+![output](./static/img/areaoftriangle.png)
 
-![output](.static/img/volumeofcylinder.png)
+![output](./static/img/volumeofcylinder.png)
 
 ## RESULT:
 Thus a website is designed for the Mathematical Calculations using JavaScript and is hosted in the URL http://aoashwin.student.saveetha.in:8000/cylindervolume/  and   http://aoashwin.student.saveetha.in:8000/areaoftriangle/ .

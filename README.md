@@ -1,10 +1,5 @@
 # Mathematical Calculations using JavaScript
 
-### Webpage URL (cylinder volume): http://aoashwin.student.saveetha.in:8000/cylindervolume/
-### Webpage URL (area of triangle): http://aoashwin.student.saveetha.in:8000/areaoftriangle/
-
-### Git Repository : https://github.com/aoashwin/scriptproject.git
-
 ## AIM:
 To design a website to calculate the area of a triangle and volume of a cylinder using JavaScript.
 
@@ -171,6 +166,11 @@ result_button.addEventListener('click', function(e){
 ![output](./static/img/areaoftriangle.png)
 
 ![output](./static/img/volumeofcylinder.png)
+
+### Webpage URL (cylinder volume): http://aoashwin.student.saveetha.in:8000/cylindervolume/
+### Webpage URL (area of triangle): http://aoashwin.student.saveetha.in:8000/areaoftriangle/
+
+### Git Repository : https://github.com/aoashwin/scriptproject.git
 
 ## RESULT:
 Thus a website is designed for the Mathematical Calculations using JavaScript and is hosted in the URL http://aoashwin.student.saveetha.in:8000/cylindervolume/  and   http://aoashwin.student.saveetha.in:8000/areaoftriangle/ .
